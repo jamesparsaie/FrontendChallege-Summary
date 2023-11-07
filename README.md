@@ -27,9 +27,11 @@ Users should be able to:
 ### Screenshot
 
 **Web Final Solution Below**
+
 ![](./images/web-component.PNG)
 
 **Mobile Final Solution Below**
+
 ![](./images/mobile-component.PNG)
 
 ### Links

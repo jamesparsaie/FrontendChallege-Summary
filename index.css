@@ -58,6 +58,8 @@ body {
 .flexContainer {
     display: flex;
     flex-direction: column;
+    margin-top: -5%;
+    margin-bottom: 5%;
     gap: 1vh;
 }
 
@@ -96,8 +98,15 @@ body {
 
 button {
     background-color: #303b59;
-    border-radius: 10%;
+    color: #c6d1dd;
+    border: none;
+    border-radius: 20px;
     margin-top: 5%;
     margin-left: 20%;
-    width: 50%
+    height: 10%;
+    width: 60%;
+}
+
+button:hover {
+    background-color: #251dbb;
 }

@@ -110,3 +110,39 @@ button {
 button:hover {
     background-color: #251dbb;
 }
+
+@media (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    .box1 {
+        flex: 2;
+        width: 100%;
+        border-radius: 1%;
+        border-bottom-left-radius: 8%;
+        border-bottom-right-radius: 8%;
+    }
+    .box2 {
+        flex: 3;
+        width: 100%;
+    }
+    .circleScore {
+        width: 14vh;
+        height: 14vh;
+        margin-top: 2%;
+    }
+    h2 {
+        margin-bottom: 10%;
+    }
+    .textDiv {
+        text-align: center;
+        color: #bdc2f0;
+    }
+    h3 {
+        margin-top: 8%;
+    }
+    .flexContainer {
+        gap: 3svh;
+    }
+}

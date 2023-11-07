@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://jamesparsaie.github.io/FrontendChallege-Summary/)
+- Live Site URL: [My Live Site](https://jamesparsaie.github.io/FrontendChallege-Summary/)
 
 ## My process
 
